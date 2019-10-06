@@ -3,3 +3,4 @@ Servers/*
 *.class
 *.jar
 */bin/*
+/.metadata/

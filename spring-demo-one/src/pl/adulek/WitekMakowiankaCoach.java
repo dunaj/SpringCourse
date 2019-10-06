@@ -15,8 +15,7 @@ public class WitekMakowiankaCoach implements Coach {
 
 	@Override
 	public String getDailyFortune() {
-		// TODO Auto-generated method stub
-		return null;
+		return "Jak tak mo¿na do kolegi mówiæ?";
 	}
 
 }
